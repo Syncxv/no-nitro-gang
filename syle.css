@@ -1,0 +1,17 @@
+#buttontgitestingtingo {
+  top: 350px;
+  right: -250px;
+  margin-bottom: 100px;
+}
+
+/* img#heybrolookatthat-3:hover {
+  opacity: 20%;
+} */
+#INPUTTFORTHETHINGO[type=text] {
+  background-color: #303339;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  color: white;
+}
